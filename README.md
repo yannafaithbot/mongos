@@ -1,0 +1,2 @@
+# mongos
+learning about mongoDb
